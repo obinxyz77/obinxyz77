@@ -15,6 +15,6 @@
 
 - **Nama:** ObinXyz  
 - **Status:** Pemula di dunia modding game, website, dan scripting  
-- **Keahlian:** Game Guardian, Lua, IMGUI, Bypass Proteksi, dan deface web yang sangat lemah  
+- **Keahlian:** Game Guardian, Lua, IMGUI, dan belajar buat website
 - **Tujuan:** Edukasi, eksperimen, dan berbagi dengan komunitas  
 - **Catatan:** Bukan hengker, cuman orang biasa yang mau belajar
